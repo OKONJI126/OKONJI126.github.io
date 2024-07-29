@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: Excel, Power BI
+#### Technical Skills: Excel, Power BI, SQL
 #### Soft Skills: Time Management, Problem Solving, Critical Thinking
 
 [Linkedln Profile](https://www.linkedin.com/in/okonjiprincess)
