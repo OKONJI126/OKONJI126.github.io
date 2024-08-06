@@ -10,7 +10,7 @@
 - B.Sc., Environmental Science and Resource Mgt. | National Open University of Nigeria (_April 2024_)
 
 ## Work Experience
-**Data Analyst Intern @ Siara  (_April 2024 - June 2024_)**
+**Data Analyst Intern @ Siara  (_April 2024 - Present)**
 - Developed and maintained Database to store and organise incidents Data efficiently.
 - Analyzed incidents report to identify patterns, trends and potential security threats.
 - Created vitualizations and reports to communicate insight on reports.
